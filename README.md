@@ -20,14 +20,9 @@ This repository contains my C programming assignments, practice programs, and so
 
 The purpose of this repository is to practice C programming, improve my problem-solving skills, and keep all my assignments organized in one place.
 
-## 🛠️ Language Used
-
-- C Programming
-
 ## 📌 Note
 
 This repository is for educational purposes and documents my progress in learning C programming.
 
----
 
 ⭐ Thank you for visiting my repository!
