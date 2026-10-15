@@ -15,7 +15,6 @@ This repository contains my C programming assignments, practice programs, and so
 - Functions
 - Arrays and strings
 - Pointers
-- Other assignment solutions
 
 ## 🎯 Purpose
 
